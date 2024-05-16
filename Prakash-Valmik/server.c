@@ -18,6 +18,7 @@ int authenticate(const char *username, const char *password, int *is_admin)
     int num_users = sizeof(users) / sizeof(users[0]);
     for (int i = 0; i < num_users; i++)
     {
+        printf("Comparing: %s %s %s %s\n",users[i].username, users[i].password); // Debug print
         if (strcmp(username, users[i].username) == 0 && strcmp(password, users[i].password) == 0)
         {
             *is_admin = users[i].is_admin;

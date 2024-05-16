@@ -32,7 +32,7 @@ void send_input_to_server(int sock)
 {
     printf(" (fgets taking ip here) ");
     char buffer[BUF_SIZE];
-    fgets(buffer, BUF_SIZE, stdin);
+    fgets(buffer, BUF_SIZE, stdin); // Read user input
     trim_newline(buffer); // Trim newline character
     send(sock, buffer, strlen(buffer), 0);
     printf("Sent to server: %s\n", buffer); // Debug print
