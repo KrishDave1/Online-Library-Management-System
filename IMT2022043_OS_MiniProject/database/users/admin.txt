@@ -1,0 +1,10 @@
+ADadmin1 Dhruv admin1@example.com password123 0
+ADadmin2 Shyam admin2@example.com secure456 0
+ADadmin3 Shreyas admin3@example.com pass789 0
+ADadmin4 Raj admin4@example.com adminpass01 0
+ADadmin5 Simran admin5@example.com strongpass123 0
+ADadmin6 Priya admin6@example.com secret321 0
+ADadmin7 Vikram admin7@example.com password456 0
+ADadmin8 Ananya admin8@example.com pass1234 0
+ADadmin9 Arjun admin9@example.com secure789 0
+ADadmin10 Meera admin10@example.com adminsecure 0

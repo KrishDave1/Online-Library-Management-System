@@ -1,0 +1,5 @@
+LI1 Dhruv admin1@example.com password123 1
+LI2 Krish krish@example.com secure5454 0
+LI3 Jane jane@example.com password456 0
+LI4 Michael michael@example.com password789 0
+LI5 Emma emma@example.com secret123 0

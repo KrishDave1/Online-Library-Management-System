@@ -1,0 +1,8 @@
+Fiction MobyDick HermanMelville 9781503280786 4 1 1851 0 0 NULL
+Fiction WarAndPeace LeoTolstoy 9780199232765 3 1 1869 0 0 NULL
+Fiction NewBook KrishDave 1234567890123 5 1 1947 0 0 NULL
+Non-Fiction HomoDeus YuvalNoahHarari 9780062464316 2 1 2015 0 0 NULL
+Non-Fiction TheGene SiddharthaMukherjee 9781476733524 3 1 2016 0 0 NULL
+Non-Fiction ThePowerOfHabit CharlesDuhigg 9780812981605 4 1 2012 0 0 NULL
+Non-Fiction Educated TaraWestover 9780399590504 1 1 2018 1716258336 1716863136 user001
+Non-Fiction Becoming MichelleObama 9781524763138 5 1 2018 0 0 NULL

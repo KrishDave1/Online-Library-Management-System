@@ -1,6 +1,0 @@
-1 a John c 2345678901 TheSelfishGene ABriefHistoryOfTime 1984 3 0 0 0
-4 ajitesh pass5454 transyltoonia 9821087097 NULL NULL NULL 0 0 0 0
-2 username2 Jane password456 9876543210 NULL NULL NULL 0 0 0 0
-3 username3 Michael password789 5551234567 NULL NULL NULL 0 0 0 0
-3 username3 Michael password789 5551234567 NULL NULL NULL 0 0 0 0
-3 username3 Michael password789 5551234567 NULL NULL NULL 0 0 0 0
